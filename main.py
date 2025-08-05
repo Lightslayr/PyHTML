@@ -1,1 +1,2 @@
-print("todo")
+from parser import main
+main()
